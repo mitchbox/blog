@@ -3,7 +3,7 @@ title: MitchBox
 header-img: img/home-bg.jpg
 email: 
 description: "Dev Notes"
-baseurl: "/blog"
+baseurl: ""
 url: "http://mitchbox.github.io"
 twitter_username: 
 github_username:  mitchbox
