@@ -10,7 +10,7 @@ github_username:  mitchbox
 facebook_username:  
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: pretty
 paginate: 5
